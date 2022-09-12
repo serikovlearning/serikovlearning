@@ -1,6 +1,6 @@
 ## Hello! I am Serikov Egor
 
-[![Serikov Egor](assets/serikov.jpg)]
+<img src="assets/serikov.jpg" width="350" alt="Serikov Egor">
 
 ## Frontend developer
 
